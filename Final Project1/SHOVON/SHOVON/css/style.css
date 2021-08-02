@@ -1,0 +1,57 @@
+.img-div1 img {    
+    width: 50%;
+    float: left;
+
+}
+
+.img-div2 img {    
+    width: 50%;
+    float: right;
+    
+}
+
+.text1{
+    width: 50%;
+    float: right;
+    background: darkviolet;
+    float: right;
+    height:400px;
+    
+}
+
+.text2{   
+
+    width: 50%;
+    float: left;
+    background: brown;
+    float: left; 
+	height: 400px;
+}
+
+
+.div1{    
+	
+	height:400px;
+    text-align: center;
+    overflow: hidden;
+	
+	
+}
+
+.text-field{
+    padding: 30px 170px 30px 50px;
+	font-size: 17px;
+    text-align: left;
+	color: white;
+	font-family: Calibri;
+	
+}
+
+.text-field1{
+    padding: 30px 50px 30px 170px;
+	font-size: 17px;
+    text-align: right;
+	color: white;
+	font-family: Calibri;
+	
+}
